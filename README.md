@@ -19,5 +19,5 @@
 - 🔭 I’m currently working on a magic the gathering deck builder using mongoDB as my backend database along with MTG's open API.
 - 🌱 I’m currently studying more backend tools and looking to rack up some more certifcations.
 - ⚡ Fun fact: I play the guitar and love music, I play weekly with my buddies! We plan to play out this fall!
-- 📫 How to reach me: You can reach me at Davidstew87@gmail.com
+- 📫 You can reach me at Davidstew87@gmail.com
 - Feel free to check out my portfolio at https://dav3ster.github.io/The-Real-Deal/
