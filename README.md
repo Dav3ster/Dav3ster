@@ -1,6 +1,6 @@
-<p algin="center" style="blue">
-# Hi there! I'm David nice to meet you!
-</p>
+<h1 algin="center" color="blue">
+Hi there! I'm David nice to meet you!
+</h1>
 <p align="center">
 <img src="MePhoto1.jpg"  style="width:auto; height:300px"/>
 </p>
